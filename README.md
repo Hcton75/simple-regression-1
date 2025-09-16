@@ -27,9 +27,13 @@ To get better results, **StandardScaler** was used on the inpendent varible(Year
 
 For performance metrics, mean_squared error, mean_absolute error, root mean_squared_error and r2_score were used.
 The outcomes were the following:
+
                                   **Mean Squared Error**: 37784662.46621304
+                                  
                                   **Mean Absolute Error**: 5161.328710400178
+                                  
                                   **Root Mean Squared Error**: 6146.923007994572
+                                  
                                   **R squared**: 0.9414466227178215
 
 The model is **94%** accurate.
